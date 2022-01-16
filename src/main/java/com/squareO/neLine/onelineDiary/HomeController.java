@@ -1,4 +1,4 @@
-package com.squareO.neLine;
+package com.squareO.neLine.onelineDiary;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
